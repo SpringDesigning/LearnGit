@@ -1,1 +1,2 @@
-This is a readme.txt file.
+Git is a distributed version control systeam
+Git is a free sofware distributed under GPL
